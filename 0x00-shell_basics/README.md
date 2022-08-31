@@ -1,4 +1,5 @@
-script that prints absolute path name of working directory
+script 1 prints absolute path name of working directory
 Script 2 Display content  list of your current directory
 Script 3 changes working directory to users home directory
-script 4 Displays current directories contents in long format
+script 4 Displays current directory contents in long format
+script 5 Displays current directory contents , including hidden  files
