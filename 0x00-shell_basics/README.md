@@ -6,3 +6,4 @@ script 5 Displays current directory contents , including hidden  files
 script 6 displays contents in long formart, with user IDS and groups numerically plus hidden files
 script 7 Creates a directory in another directory
 script 8 Move file into a new directory under the same directory
+script 9 delete file from a directory under a directory
