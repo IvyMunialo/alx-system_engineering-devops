@@ -3,3 +3,4 @@ Script 2 Display content  list of your current directory
 Script 3 changes working directory to users home directory
 script 4 Displays current directory contents in long format
 script 5 Displays current directory contents , including hidden  files
+script 6 displays contents in long formart, with user IDS and groups numerically plus hidden files 
