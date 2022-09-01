@@ -9,5 +9,6 @@ script 8 Move file into a new directory under the same directory
 script 9 delete file from a directory under a directory
 script 10 Delete directory from another directory
 script 11 Changes working directory to previous one
+script 12 lists all files from current directory, parent directory and  /boot in that order
 script 13 Print a file from a directory
 script 14 Create a symbolic link
