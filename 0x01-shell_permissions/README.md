@@ -3,3 +3,4 @@ script 2  prints the effective username of the current user
 script 3
 script 4 changes the owner of the file hello to the user betty
 script 5 creates an empty file called hello
+script 6 adds execute permission to the owner of the file hello
