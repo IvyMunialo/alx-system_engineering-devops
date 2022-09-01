@@ -12,3 +12,4 @@ script 11 Changes working directory to previous one
 script 12 lists all files from current directory, parent directory and  /boot in that order
 script 13 Print a file from a directory
 script 14 Create a symbolic link
+script 15 copyHTML file
