@@ -1,2 +1,2 @@
 #!/bin/bash
-dchmod +111 .
+dchmod +111
