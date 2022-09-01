@@ -10,3 +10,4 @@ script 9 delete file from a directory under a directory
 script 10 Delete directory from another directory
 script 11 Changes working directory to previous one
 script 13 Print a file from a directory
+script 14 Create a symbolic link
