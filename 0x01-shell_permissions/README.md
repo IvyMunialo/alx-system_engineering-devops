@@ -7,3 +7,4 @@ script 6 adds execute permission to the owner of the file hello
 script 7  adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 script 8 adds execution permission to the owner, the group owner and the other users, to the file hello
 script 9script that sets the permission to the file hello as follows:Owner: no permission at allGroup: no permission at allOther users: all the permissions
+script 10 that sets the mode of the file hello to this-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
