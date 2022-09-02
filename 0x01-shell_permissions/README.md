@@ -16,3 +16,4 @@ script 15 changes the owner to vincent and the group owner to staff for all the 
 script 16 changes the owner and the group owner of _hello to vincent and staff respectively
 script 17 changes the owner and the group owner of _hello to vincent and staff respectively
 script 18 changes the owner of the file hello to betty only if it is owned by the user guillaume
+script 19 plays the starwars IV episode in the terminal 
