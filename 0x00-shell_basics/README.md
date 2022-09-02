@@ -16,3 +16,4 @@ script 15 Copy all HTML files from current directory to parent directory
 script 16 moves all files beginning with an uppercase letter to the directory /tmp/u
 script 17  deletes all files in the current working directory that end with the character ~
 script 18 creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
+script 19  lists all the files and directories of the current directory, separated by commas (,)
