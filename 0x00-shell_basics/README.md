@@ -14,3 +14,4 @@ script 13 Print a file from a directory
 script 14 Create a symbolic link
 script 15 Copy all HTML files from current directory to parent directory
 script 16 moves all files beginning with an uppercase letter to the directory /tmp/u
+script 17  deletes all files in the current working directory that end with the character ~
