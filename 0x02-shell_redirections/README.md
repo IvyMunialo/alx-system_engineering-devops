@@ -15,3 +15,4 @@ Requirements:
 One file per line
 Sorted from the newest to the oldest
 script 14 Create a script that takes a list of words as input and prints only words that appear exactly once
+script 15 Display lines containing the pattern “root” from the file /etc/passwd
