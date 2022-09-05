@@ -1,0 +1,4 @@
+#!/bin/bash
+cat uniq -id tail -1 case q in
+
+iacta
