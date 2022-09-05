@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i --include={} /etc/ssh/sshd_config
+grep -a --exclude=* /etc/ssh/sshd_config
